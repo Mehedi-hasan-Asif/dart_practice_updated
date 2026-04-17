@@ -5,8 +5,7 @@ class Car {
 
   void star() {
     print("$name car is starting");
-    print("$color  is the color");
-    print("$numOfSeats seats of this car");
+
   }
 }
 
